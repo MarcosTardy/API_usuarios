@@ -1,4 +1,4 @@
-Descripción
+##Descripción
 Este proyecto es una API RESTful para gestionar usuarios, creada con FastAPI. Permite realizar operaciones CRUD (crear, leer, actualizar, eliminar) sobre usuarios, implementando seguridad mediante JWT/OAuth para autenticación y autorización. Los datos se almacenan en una base de datos remota en MongoDB Atlas.
 
 Funcionalidades
